@@ -1,5 +1,5 @@
 ---
-title: "Datos de Cantones Shiny"
+title: "Datos de Cantones de Costa Rica"
 output: 
   flexdashboard::flex_dashboard:
     orientation: rows
